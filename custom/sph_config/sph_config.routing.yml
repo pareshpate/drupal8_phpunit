@@ -1,0 +1,9 @@
+sph_config.sph_config_form:
+  path: '/admin/config/sph_config/default'
+  defaults:
+    _form: '\Drupal\sph_config\Form\SPHConfigForm'
+    _title: 'SPHConfigForm'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE

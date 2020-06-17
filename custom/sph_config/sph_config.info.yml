@@ -1,0 +1,5 @@
+name: 'SPH Config'
+type: module
+description: 'SPH Configuration'
+core: 8.x
+package: 'SPH'
